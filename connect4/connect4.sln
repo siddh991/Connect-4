@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "connect4", "connect4\connect4\connect4.csproj", "{44925853-0420-458F-A656-ADF3EAEFAD5D}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "connect4Content", "connect4\connect4Content\connect4Content.contentproj", "{31B81932-49F0-44E9-963F-942BD6FD5C7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44925853-0420-458F-A656-ADF3EAEFAD5D}.Debug|x86.ActiveCfg = Debug|x86
+		{44925853-0420-458F-A656-ADF3EAEFAD5D}.Debug|x86.Build.0 = Debug|x86
+		{44925853-0420-458F-A656-ADF3EAEFAD5D}.Release|x86.ActiveCfg = Release|x86
+		{44925853-0420-458F-A656-ADF3EAEFAD5D}.Release|x86.Build.0 = Release|x86
+		{31B81932-49F0-44E9-963F-942BD6FD5C7B}.Debug|x86.ActiveCfg = Debug|x86
+		{31B81932-49F0-44E9-963F-942BD6FD5C7B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
